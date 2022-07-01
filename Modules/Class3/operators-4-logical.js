@@ -8,6 +8,7 @@
  *      Only one of the combined conditions must be true, to get result "true"
  *      if all the combined conditions are false, the result will be false
  * !  -> not-operator
+ *      makes true into false and vica-versa
  * 
  */
 
